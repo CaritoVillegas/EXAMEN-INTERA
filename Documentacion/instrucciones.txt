@@ -1,0 +1,7 @@
+Registrador de Mascotas
+
+Se requiere una plataforma web que le permita al usuario registrar las mascotas vistas. la plataforma debera tener una pagina inicial en la cual se encontraran en la parte superior una card de 600 px de altura y toda la pantalla de ancho, dentro de esta card se debera colocar un formulario para subir: Nombre, Raza, Edad y ua foto de la mascota, con su respectivo boton que diga Subir informacion
+
+En la parte inferior debe existir una tabla la cual mostrara la misma informacion en el siguiente orde: Nombre, Raza, Edad, Foto (en tamaño 300px x 300px).
+
+Esta tabla debera poderse mostrar u ocultar a partir de un boton que se encuentre entre ambas partes que diga mostar tabla. El programa debe estar ligado a una base de datos mysql llamada mascotas, la cual se deja a su consideracion el diseño de la misma Para la maquetacion usar bootstrap.
